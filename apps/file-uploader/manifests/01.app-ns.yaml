@@ -1,5 +1,5 @@
 ---
 kind: ProjectRequest
-apiVersion: v1
+apiVersion: project.openshift.io/v1
 metadata:
   name: file-uploader
